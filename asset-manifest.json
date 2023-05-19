@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.7a4aae21.css",
+    "main.js": "/portfolio/static/js/main.14e8dbb4.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/PW03.jpg": "/portfolio/static/media/PW03.ffc57bdb2b57afc77393.jpg",
+    "static/media/PW01.jpg": "/portfolio/static/media/PW01.1d9d0c2bc1635c29f4a0.jpg",
+    "static/media/PW05.jpg": "/portfolio/static/media/PW05.626359d9a875fb701762.jpg",
+    "static/media/W03.jpg": "/portfolio/static/media/W03.213b0fb293c11a830e7a.jpg",
+    "static/media/W02.jpg": "/portfolio/static/media/W02.ac0d94bad697eb25d713.jpg",
+    "static/media/W01.jpg": "/portfolio/static/media/W01.ab0778670247bdc018c1.jpg",
+    "static/media/header.jpg": "/portfolio/static/media/header.9bbca9537108cac035b7.jpg",
+    "static/media/aboutcamera.gif": "/portfolio/static/media/aboutcamera.000899a919e502776bf5.gif",
+    "static/media/contactus.gif": "/portfolio/static/media/contactus.6ed78301c0a11aa4283a.gif",
+    "static/media/whychooseus.jpg": "/portfolio/static/media/whychooseus.09d8f23f36c1f4511015.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.7a4aae21.css.map": "/portfolio/static/css/main.7a4aae21.css.map",
+    "main.14e8dbb4.js.map": "/portfolio/static/js/main.14e8dbb4.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a4aae21.css",
+    "static/js/main.14e8dbb4.js"
+  ]
+}
